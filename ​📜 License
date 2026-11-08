@@ -1,0 +1,23 @@
+### 🚀 Step-by-Step GitHub Upload Instructions
+
+<Sequence>
+  <Step title="Create Repository on GitHub">
+    Go to [GitHub New Repository](https://github.com/new), set repository name to `portfolio` or `signal-observatory`, select **Public**, and click **Create repository**.
+  </Step>
+  <Step title="Add Files">
+    Click **Uploading an existing file** on the new repo page. Drag and drop both `index.html` and `README.md`.
+  </Step>
+  <Step title="Commit Changes">
+    Click **Commit changes**. Your code is now fully uploaded!
+  </Step>
+</Sequence>
+
+---
+
+### ⚡ Quick Netlify Deploy & ONEWHO Submission Link
+
+1. Go to Netlify -> **Add new site** -> **Import an existing project** -> **GitHub**.
+2. Select your new `portfolio` repository.
+3. Leave Build Command **blank** and click **Deploy**.
+4. Take your Netlify live URL, connect it on [isonewho.codes](https://isonewho.codes/), add the **Unstop** application, and submit:
+   $$\text{[https://madhumitha.isonewho.codes
